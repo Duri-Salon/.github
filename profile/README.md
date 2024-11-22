@@ -1,5 +1,3 @@
-<div align="center">
-
 # Duri-Salon
 
 </div>
@@ -16,46 +14,56 @@
 
 ## 2. Technology Stack (기술 스택)
 
-<img width="500" alt="architecture" src="https://github.com/user-attachments/assets/cf16f43b-2c78-446e-8799-13a95f91fae3">
+<img width="100%" alt="architecture" src="https://github.com/user-attachments/assets/cf16f43b-2c78-446e-8799-13a95f91fae3">
 
 ### 2.1 Frontend
-<table>
-  <tr>
-    <th>React</th><th>TypeScript</th><th>React-Query</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/e3b49dbb-981b-4804-acf9-012c854a2fd2" alt="React" width="50"></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="TypeScript" width="50"></td>
-    <td align="center"><img src="https://blog.kakaocdn.net/dn/bn46NQ/btrUYpxt8eu/iIkghrhyYOztpLU3KcTrD0/img.png" alt="React-Query" width="50"></td>
-  </tr>
-</table>
+<div>
+  <img src="https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Tanstack Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Emotion-DB7093?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Zustand-002B56?style=for-the-badge"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Husky-A5915F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Yarn berry-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
+</div>
 
 ### 2.2 Backend
-<table>
-  <tr>
-    <th>JAVA</th><th>Spring Boot</th><th>OAuth2</th><th>Spring Security</th><th>JWT</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/5df80afe-5c3d-47c1-9f6d-1549d1b2fc42" alt="JAVA" width="100"></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/4d0c279a-0dfe-4253-b79e-c615935f9aff" alt="Spring Boot" width="100"></td>
-<td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSer4Aw39i08dpwLOdRu_KtK6UOvMDw6Q1Qxw&s" alt="OAuth2" width="100"></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/f4744195-f1d0-44d9-b64c-0a027aaaf05a" alt="Spring Security" width="100"></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/d43d4e63-3d5c-4ba2-a323-a68c6a8924e1" alt="JWT" width="50"></td>
-  </tr>
-</table>
+<div>
+  <img src="https://img.shields.io/badge/JAVA-f89820?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/JWT-002B56?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OAuth 2.0-002B56?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+</div>
 
-### 2.3 Cooperation
-<table>
-  <tr>
-    <th>Git</th><th>Figma</th><th>Notion</th><th>Jira</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/483abc38-ed4d-487c-b43a-3963b33430e6" alt="Git" width="50"></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/aa07f6bc-5034-4461-babf-82ada48f36b0" alt="Figma" width="50"></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/34141eb9-deca-416a-a83f-ff9543cc2f9a" alt="Notion" width="50"></td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" alt="Jira" width="50"></td>
-  </tr>
-</table>
+### 2.3 Deploy
+<div>
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS CodeDeploy-4053D6?style=for-the-badge"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</div>
+
+### 2.4 Cooperation
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</div>
 
 <br/>
 <br/>
@@ -80,7 +88,7 @@ yarn preview
 
 ```
 
-<br />
+<br/>
 <br/>
 
 ## 4. 팀 규칙
