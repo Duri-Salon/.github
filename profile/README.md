@@ -30,6 +30,7 @@
 </div>
 <div>
   <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MSW-FF6A33?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Husky-A5915F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Yarn berry-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
 </div>
@@ -46,7 +47,12 @@
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
 </div>
 
-### 2.3 Deploy
+### 2.3 AI
+<div>
+
+</div>
+
+### 2.4 Deploy
 <div>
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
@@ -54,10 +60,10 @@
 </div>
 <div>
   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </div>
 
-### 2.4 Cooperation
+### 2.5 Cooperation
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
