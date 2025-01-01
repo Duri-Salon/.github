@@ -14,7 +14,7 @@
 
 ## 2. Technology Stack (기술 스택)
 
-<img width="100%" alt="architecture" src="https://github.com/user-attachments/assets/cf16f43b-2c78-446e-8799-13a95f91fae3">
+<img width="100%" alt="architecture" src="https://github.com/user-attachments/assets/0c832fcf-d54e-4dd1-a36e-2d3456ee2e99">
 
 ### 2.1 Frontend
 <div>
@@ -39,7 +39,7 @@
 <div>
   <img src="https://img.shields.io/badge/JAVA-f89820?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  
 </div>
 <div>
   <img src="https://img.shields.io/badge/JWT-002B56?style=for-the-badge"/>
@@ -49,7 +49,7 @@
 
 ### 2.3 AI
 <div>
-
+  <img src="https://img.shields.io/badge/Replicate-000000?style=for-the-badge&logo=replicate&logoColor=white"/>
 </div>
 
 ### 2.4 Deploy
